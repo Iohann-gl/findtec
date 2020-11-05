@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "820379344077",
+    "firebase_url": "https://findtec-final.firebaseio.com",
+    "project_id": "findtec-final",
+    "storage_bucket": "findtec-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820379344077:android:0bad8db9d88b18142bdd84",
+        "android_client_info": {
+          "package_name": "com.iohann.findtec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820379344077-5cj8ikundp49t42kdlpd8tu4dd9hgjf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq19I9gMbklyLlrfWzSoM91lxR_yboMXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820379344077-5cj8ikundp49t42kdlpd8tu4dd9hgjf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
